@@ -1,0 +1,19 @@
+"Metadata"
+{
+	"GUID" "5ad674083d49e654db40cf1a201aceaf"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "6"
+	"Title"
+	{
+		"Namespace" "SDG"
+		"Token" "Stereo_Songs.Katanatrousle.Title"
+	}
+	"Song"
+	{
+		"Name" "voidincmusic.content"
+		"Path" "Assets/Music/Katanatrousle.mp3"
+	}
+}

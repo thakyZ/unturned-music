@@ -1,0 +1,19 @@
+"Metadata"
+{
+	"GUID" "ac0df44b87df7be4dac6d98c33bfcf31"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "15"
+	"Title"
+	{
+		"Namespace" "SDG"
+		"Token" "Stereo_Songs.Mission_7_Killbot.Title"
+	}
+	"Song"
+	{
+		"Name" "voidincmusic.content"
+		"Path" "Assets/Music/Mission_7_Killbot.mp3"
+	}
+}

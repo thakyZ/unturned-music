@@ -1,0 +1,19 @@
+"Metadata"
+{
+	"GUID" "d389918cf24910a45a3284f4b7d01343"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "4"
+	"Title"
+	{
+		"Namespace" "SDG"
+		"Token" "Stereo_Songs.Hunted.Title"
+	}
+	"Song"
+	{
+		"Name" "voidincmusic.content"
+		"Path" "Assets/Music/Hunted.mp3"
+	}
+}

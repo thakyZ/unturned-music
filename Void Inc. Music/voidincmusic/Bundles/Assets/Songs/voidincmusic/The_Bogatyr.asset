@@ -1,0 +1,19 @@
+"Metadata"
+{
+	"GUID" "44b9fb3a401f440499ea746a729c6316"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "17"
+	"Title"
+	{
+		"Namespace" "SDG"
+		"Token" "Stereo_Songs.The_Bogatyr.Title"
+	}
+	"Song"
+	{
+		"Name" "voidincmusic.content"
+		"Path" "Assets/Music/The_Bogatyr.mp3"
+	}
+}

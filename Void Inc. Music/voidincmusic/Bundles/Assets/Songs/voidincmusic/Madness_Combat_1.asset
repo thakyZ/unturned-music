@@ -1,0 +1,19 @@
+"Metadata"
+{
+	"GUID" "d59cc73f2df1d874cb722cfcc4cbdedc"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "7"
+	"Title"
+	{
+		"Namespace" "SDG"
+		"Token" "Stereo_Songs.Madness_Combat_1.Title"
+	}
+	"Song"
+	{
+		"Name" "voidincmusic.content"
+		"Path" "Assets/Music/Madness_Combat_1.mp3"
+	}
+}

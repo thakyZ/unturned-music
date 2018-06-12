@@ -1,0 +1,19 @@
+"Metadata"
+{
+	"GUID" "8b8b0e055c466254b9b05da8cc6bf71e"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "18"
+	"Title"
+	{
+		"Namespace" "SDG"
+		"Token" "Stereo_Songs.Unstoppable.Title"
+	}
+	"Song"
+	{
+		"Name" "voidincmusic.content"
+		"Path" "Assets/Music/Unstoppable.mp3"
+	}
+}

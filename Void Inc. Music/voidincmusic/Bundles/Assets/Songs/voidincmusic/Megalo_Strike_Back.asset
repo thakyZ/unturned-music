@@ -1,0 +1,19 @@
+"Metadata"
+{
+	"GUID" "cf50e8ac5f3a7b34a9255fc12707e996"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "14"
+	"Title"
+	{
+		"Namespace" "SDG"
+		"Token" "Stereo_Songs.Megalo_Strike_Back.Title"
+	}
+	"Song"
+	{
+		"Name" "voidincmusic.content"
+		"Path" "Assets/Music/Megalo_Strike_Back.mp3"
+	}
+}

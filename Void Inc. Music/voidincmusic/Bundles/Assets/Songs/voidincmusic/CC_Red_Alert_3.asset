@@ -1,0 +1,19 @@
+"Metadata"
+{
+	"GUID" "56d79b387f5709046ac55f6ee8c9146e"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "2"
+	"Title"
+	{
+		"Namespace" "SDG"
+		"Token" "Stereo_Songs.CC_Red_Alert_3.Title"
+	}
+	"Song"
+	{
+		"Name" "voidincmusic.content"
+		"Path" "Assets/Music/CC_Red_Alert_3.mp3"
+	}
+}

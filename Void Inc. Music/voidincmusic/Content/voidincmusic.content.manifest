@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 83378273
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f048d680e1d5d4f4f2c185602822866
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Music/Madness_Combat_9.mp3
+- Assets/Music/Unstoppable.mp3
+- Assets/Music/Madness_Combat_7.mp3
+- Assets/Music/National_Anthem_of_USSR.mp3
+- Assets/Music/Madness_Combat_7_5.mp3
+- Assets/Music/Asgore_The_Shogun_Of_The_Mountain.mp3
+- Assets/Music/Katanatrousle.mp3
+- Assets/Music/CC_Red_Alert_3.mp3
+- Assets/Music/The_Bogatyr.mp3
+- Assets/Music/Incident_011A.mp3
+- Assets/Music/Madness_Combat_6_5.mp3
+- Assets/Music/Mission_7_Killbot.mp3
+- Assets/Music/Hunted.mp3
+- Assets/Music/Megalo_Strike_Back.mp3
+- Assets/Music/Madness_Combat_4.mp3
+- Assets/Music/Madness_Combat_3_Part_A.mp3
+- Assets/Music/Madness_Combat_1.mp3
+- Assets/Music/Dizzy.mp3
+Dependencies: []

@@ -1,0 +1,19 @@
+"Metadata"
+{
+	"GUID" "50842b876eb233e42903dcecda4a8b55"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "1"
+	"Title"
+	{
+		"Namespace" "SDG"
+		"Token" "Stereo_Songs.Asgore_The_Shogun_Of_The_Mountain.Title"
+  }
+	"Song"
+	{
+		"Name" "voidincmusic.content"
+		"Path" "Assets/Music/Asgore_The_Shogun_Of_The_Mountain.mp3"
+	}
+}
